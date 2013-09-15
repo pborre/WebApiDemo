@@ -64,9 +64,4 @@ namespace WebApiClient
             
         }
     }
-
-    public class ShowResults
-    {
-      
-    }
 }
